@@ -47,7 +47,7 @@ Para utilizar esse template, você precisa seguir os seguintes passos:
 - **8º passo**: Agora é só você fazer todas as alterações que você desejar, e envia-las para o github para o repositório que você acabou de criar utilizando o template.
 
 ### Outras dúvidas
-Abra uma issue que responderemos em breve.
+Abra uma issue no repositório do Projeto que responderemos em breve.
 
 ## :memo: Licença
 
